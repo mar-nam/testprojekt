@@ -1,4 +1,4 @@
 console.log('hello!');
-
-console.log('god morning honey');
-console.log("End test");
+const name = 'Alice';
+console.log(`god morning ${name}`);
+console.log("Have a nice day!");
